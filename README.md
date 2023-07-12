@@ -21,3 +21,6 @@ Microsoft Excel: The initial dataset was provided in Excel format, which was pro
 
 ## Data Source:
 The project utilizes a real-life employee attendance dataset provided by the HR manager. The dataset contains employee names, randomized IDs, dates, and attendance key codes, including work from home (WFH) and sick leave (SL).
+
+## My Work :
+![hranalytics](https://github.com/shanibafirdouse/HRAnalytics/assets/85803371/985f4a86-2f54-4081-99ed-d03e19ab869d)
